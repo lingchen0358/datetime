@@ -1,0 +1,21 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  text-align: center;
+  color: #333;
+}
+
+h2 {
+  border-bottom: 1px solid #ccc;
+  padding-bottom: 10px;
+  margin-top: 20px;
+}
+
+input,
+select,
+button {
+  margin: 5px;
+  padding: 5px;
+}
